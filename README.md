@@ -16,5 +16,5 @@ This repository contains the analysis code for our study investigating how vario
 - **Large-N Behavioral Analytics:** Analyzing a US-based cohort of 766 participants using the Sea Hero Quest platform.
 
 ## 📁 Files
-- `sleep_navigation_analysis.R`: Main statistical pipeline including stratified regressions and sensitivity tests.
-- `sleep_data_viz.ipynb`: Exploratory analysis and gender-comparative visualizations.
+- `Sleeppaper.R`: Main statistical pipeline including stratified regressions and sensitivity tests.
+- `Sleeppaper.ipynb`: Exploratory analysis and gender-comparative visualizations.
