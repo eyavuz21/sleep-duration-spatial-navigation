@@ -9,12 +9,13 @@ This repository contains the analysis code for our study investigating how vario
 - **Sensitivity Analysis:** The significant association in men disappears when "non-typical" sleepers (<6h or >9h) are removed, suggesting the effect may be driven by extreme sleep durations.
 - **Other Variables:** Sleep quality, daytime sleepiness, and nap frequency showed no significant independent associations with performance.
 
+## 📁 Files
+- `Sleeppaper.R`: Main statistical pipeline including stratified regressions and sensitivity tests.
+- `Sleeppaper.ipynb`: Exploratory analysis and gender-comparative visualizations.
+- 
 ## 🛠 Skills Demonstrated
 - **Multivariate Regression:** Using Multiple Linear Regression to isolate independent predictors from a range of sleep metrics.
 - **Subgroup Analysis:** Implementing gender-stratified models to identify demographic-specific effects.
 - **Data Filtering & Robustness:** Conducting sensitivity analyses by removing outliers (non-typical sleepers) to test the stability of results.
 - **Large-N Behavioral Analytics:** Analyzing a US-based cohort of 766 participants using the Sea Hero Quest platform.
 
-## 📁 Files
-- `Sleeppaper.R`: Main statistical pipeline including stratified regressions and sensitivity tests.
-- `Sleeppaper.ipynb`: Exploratory analysis and gender-comparative visualizations.
