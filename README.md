@@ -12,7 +12,7 @@ This repository contains the analysis code for our study investigating how vario
 ## 📁 Files
 - `Sleeppaper.R`: Main statistical pipeline including stratified regressions and sensitivity tests.
 - `Sleeppaper.ipynb`: Exploratory analysis and gender-comparative visualizations.
-- 
+  
 ## 🛠 Skills Demonstrated
 - **Multivariate Regression:** Using Multiple Linear Regression to isolate independent predictors from a range of sleep metrics.
 - **Subgroup Analysis:** Implementing gender-stratified models to identify demographic-specific effects.
